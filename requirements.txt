@@ -1,0 +1,4 @@
+rdp>=0.8
+folium>=0.14.0
+plotly>=5.13.1
+pandas>=1.5.3
